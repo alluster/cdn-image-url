@@ -21,4 +21,4 @@
 -   Paste list to CSV containing all entries to Webflow collection
 -   Upload CSV to Webflow and enjoy a large set of collections with images
 
-![Example Process](http://url/to/img.png)
+![Example Process](https://raw.githubusercontent.com/alluster/cdn-image-url/master/image-naming-problem-webflow.jpg)
